@@ -1,9 +1,9 @@
 # Mars_task_1
 
+
 ## Learnings & Approach
 
 Every single problem of the tasked pushed me to explore different or a variety of things possible. 
-
 I'll explain step by step about what I learned and gone through for every problem which i solved.
 
 ### Strong Dose Problem :-
